@@ -27,6 +27,7 @@ tag :
 
 ## 4. 받아온 파일의 .git삭제 후 내 주소 연결
  clone을 해온 후 **git remote -v 를 실행해보면 테마 파일을 받아온 주소로 설정되어있다. 내 블로그에 remote를 해야하기 때문에 .git파일을 삭제해준다. 그 후 git 저장소를 생성한다. 그 다음 원격저장소를 내 주소로 저장한다.
+
     git init #git 저장소 생성
     
     git remote add origin https://username.github.io/TIL.git #원격저장소 등록
@@ -35,12 +36,14 @@ tag :
  
 
 ## 5. 테마 적용하기
- 받아온 테마를 내 github에 올려준다.    
+ 받아온 테마를 내 github에 올려준다.  
+
     git add . # 모든 파일을 스테이지에 추가
 
     git commit -m 'change theme' #commit
-
+    
     git push origin master #push
+
  위의 내용을 실행한 후 블로그에 접속해보면 테마가 적용된 것을 볼 수 있다.
 
 이 후 jekyll의 파일들을 수정하여 커스터마이징한다.
