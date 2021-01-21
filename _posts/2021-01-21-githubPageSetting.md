@@ -1,10 +1,10 @@
 ---
 title : github 블로그 시작하기
 category :
-    -git
+    - git
 tag :
-    -jekyll
-    -github page
+    - jekyll
+    - github page
 ---
 # github 블로그 시작하기
 
@@ -35,7 +35,7 @@ tag :
  
 
 ## 5. 테마 적용하기
- 받아온 테마를 내 github에 올려준다.
+ 받아온 테마를 내 github에 올려준다.    
     git add . # 모든 파일을 스테이지에 추가
 
     git commit -m 'change theme' #commit
