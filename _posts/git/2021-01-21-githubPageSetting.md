@@ -1,10 +1,10 @@
 ---
 title : github 블로그 시작하기
 category :
-    -git
+    - git
 tag :
-    -jekyll
-    -github page
+    - jekyll
+    - github page
 ---
 github 블로그 시작하기
 
