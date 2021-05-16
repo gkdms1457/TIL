@@ -11,4 +11,4 @@ tag :
 # DREAMHACK - WEBHACKING WARGAME
 XSS - 1
 
-https://haeun-eom.tistory.com/2
+[드림핵 xss-1 writeup](https://haeun-eom.tistory.com/2)
