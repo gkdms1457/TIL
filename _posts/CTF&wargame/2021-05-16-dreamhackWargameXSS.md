@@ -6,6 +6,7 @@ tag :
     - webhackingCTF
     - CTF
     - Wargame
+    - xss
 ---
 
 # DREAMHACK - WEBHACKING WARGAME
